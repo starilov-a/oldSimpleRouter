@@ -1,0 +1,15 @@
+{
+    "name": "starilov/develop.local",
+    "autoload": {
+        "psr-4": {
+            "Starilov\\DevelopLocal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "starilov",
+            "email": "anton_starilov@mail.ru"
+        }
+    ],
+    "require": {}
+}
