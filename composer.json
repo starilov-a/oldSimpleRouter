@@ -2,7 +2,8 @@
     "name": "starilov/develop.local",
     "autoload": {
         "psr-4": {
-            "Starilov\\DevelopLocal\\": "src/"
+            "Src\\": "src/",
+            "Routes\\": "routes/"
         }
     },
     "authors": [

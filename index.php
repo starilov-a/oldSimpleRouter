@@ -1,3 +1,7 @@
 <?php
 
-echo 'hello world';
+require 'vendor/autoload.php';
+include_once 'routes/routes.php';
+
+$router = new Routes\Router();
+
